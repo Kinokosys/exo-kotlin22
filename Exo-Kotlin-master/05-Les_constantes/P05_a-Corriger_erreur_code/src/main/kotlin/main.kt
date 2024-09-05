@@ -1,8 +1,5 @@
-
-
-
 fun main() {
-    const val CONST: Int
+    val CONST: Int
     val listNumber = mutableListOf<Int>()
     CONST = 100
     listNumber.add(CONST * CONST)
