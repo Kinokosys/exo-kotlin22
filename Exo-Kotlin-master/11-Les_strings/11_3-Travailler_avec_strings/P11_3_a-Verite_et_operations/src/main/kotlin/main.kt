@@ -1,5 +1,8 @@
 fun main() {
-    // write your code here
+    val a = "sum"
+    val b = "mer"
+    val result = "summer"
+    println(a + b == result)
 
 }
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/P04_d-Echange.iml" filepath="$PROJECT_DIR$/P04_d-Echange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exo-Kotlin-master.iml" filepath="$PROJECT_DIR$/.idea/Exo-Kotlin-master.iml" />
     </modules>
   </component>
 </project>
