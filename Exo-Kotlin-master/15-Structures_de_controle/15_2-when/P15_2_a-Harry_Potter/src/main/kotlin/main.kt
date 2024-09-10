@@ -1,3 +1,9 @@
 fun main() {
-    // write your code here
+    val house = "slytherin"
+    when (house) {
+        "slytherin" -> println("cunning")
+        "gryffindor" -> println("bravery")
+        "ravenclaw" -> println("intellect")
+        "hufflepuff" -> println("loyalty")
+    }
 }
