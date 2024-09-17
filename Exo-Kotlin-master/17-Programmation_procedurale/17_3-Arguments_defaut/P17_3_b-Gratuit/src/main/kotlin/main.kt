@@ -1,5 +1,5 @@
 fun tip(bill: Int, percentage: Int = 10): Int {
-    val tip = bill * percentage
+    val tip = bill / percentage
     return tip
 }
 
