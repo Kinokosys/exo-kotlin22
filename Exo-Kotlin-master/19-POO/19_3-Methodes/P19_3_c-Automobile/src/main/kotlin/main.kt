@@ -1,8 +1,11 @@
 class Car(val make: String, val year: Int) {
-
-    var speed: Int = 0
-
-    // write the methods here
+    var speed: Int = 70
+    fun accelerate(){
+        speed += 5
+    }
+    fun decelerate() {
+        speed -= 5
+    }
 }
 
 fun main() {

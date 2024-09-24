@@ -1,4 +1,4 @@
-// write your class here
+class LewisCarrollBook(val name: String = "", val author: String = "Lewis Carroll", val price: Int = 0)
 
 
 fun main() {
